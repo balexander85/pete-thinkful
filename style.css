@@ -62,8 +62,9 @@ img {
 }
 
 .image-circle {
-  border: 2px solid #003049;
+  border: 3px solid #003049;
   border-radius: 50%;
+  margin-left: 45px;
 }
 
 /* Footer */
